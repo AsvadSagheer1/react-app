@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react'
-import { Card, CardBody, CardFooter, CardGroup, CardHeader, CardText, CardTitle, Col, Container, Spinner } from 'reactstrap'
+import { Card, CardBody, CardFooter, CardGroup, CardText, CardTitle, Col, Container, Spinner } from 'reactstrap'
 
 
 export default function Posts() {
